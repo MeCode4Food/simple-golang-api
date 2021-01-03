@@ -1,0 +1,17 @@
+[
+  {
+    "name": "milky",
+    "breed": "turkish van",
+    "age": 1.0
+  },
+  {
+    "name": "maru",
+    "breed": "scottish fold",
+    "age": 2.0
+  },
+  {
+    "name": "potat",
+    "breed": "maine coon",
+    "age": 1.5
+  }
+]

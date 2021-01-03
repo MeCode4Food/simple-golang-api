@@ -1,7 +1,12 @@
 package main
 
+import (
+	"simple-backend/server"
+)
+
 func main() {
-	app := App{}
-	app.initialiseRoutes()
-	app.run()
+	app := server.App{}
+	app.InitialiseDatabase()
+	app.InitialiseRoutes()
+	app.Run()
 }
